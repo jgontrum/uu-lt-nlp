@@ -1,0 +1,16 @@
+Evaluation arguments: -g ../ewt-dev.conll -s ../out.conll
+====================================================
+Gold:   ../ewt-dev.conll
+Parsed: ../out.conll
+====================================================
+GroupBy-> Token
+Metric-> LAS
+
+====================================================
+
+accuracy /    Token
+-----------------------
+0.817         Row mean
+25148         Row count
+-----------------------
+
